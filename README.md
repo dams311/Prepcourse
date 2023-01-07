@@ -1,2 +1,1 @@
-# Prepcourse
-este es un repositorio de prueba del modulo 2 del prepcourse de henry
+este proyecto es una prueba de como clonarlo desde gitbub a la computadora
